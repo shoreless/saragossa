@@ -1,0 +1,18 @@
+{
+  "name": "saragossa",
+  "version": "0.1.0",
+  "description": "Foundation infrastructure for Saragossa islands — the operating system that makes agents interoperable",
+  "main": "index.js",
+  "bin": {
+    "saragossa": "./bin/saragossa.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["agents", "saragossa", "claude-code", "island"],
+  "author": "shoreless",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

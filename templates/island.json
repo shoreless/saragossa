@@ -1,0 +1,17 @@
+{
+  "name": "your-island-name",
+  "version": "1",
+  "agents": [
+    { "name": "agent-name", "role": "what they do", "runtime": "claude" }
+  ],
+  "correspondence": {
+    "inbox": "https://your-domain.com/saragossa/inbox",
+    "format": "saragossa-v1"
+  },
+  "activity": {
+    "endpoint": "https://your-domain.com/crew/api/status",
+    "format": "saragossa-v1"
+  },
+  "publicKey": "",
+  "knows": []
+}

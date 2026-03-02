@@ -1,0 +1,8 @@
+{
+  "contextThreshold": 75,
+  "contextWindow": 200000,
+  "tasksDir": "./tasks",
+  "agents": {
+    "/Sites/your-agent": "agent-name"
+  }
+}
